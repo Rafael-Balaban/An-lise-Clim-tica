@@ -1,1 +1,3 @@
-# An-lise-Clim-tica
+# Analise-Climatica
+
+Desenvolvimento de um sistema em Python para análise de dados climáticos, que processa um arquivo CSV contendo informações de temperatura, umidade, vento e precipitação ao longo de várias décadas. O sistema permite que o usuário filtre dados por intervalos de datas específicos e visualize diferentes métricas, como temperatura média, máxima e mínima, umidade relativa, velocidade do vento e precipitação. Além disso, o programa identifica o dia com maior indice de chuva do período analisado. A aplicação inclui uma interface de linha de comando intuitiva que oferece diferentes opções de visualização, como exibição de todos os dados do intervalo selecionado ou apenas precipitação, temperatura ou umidade e vento.
